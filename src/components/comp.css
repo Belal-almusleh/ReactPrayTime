@@ -1,0 +1,9 @@
+.pray-image{
+    transition: 0.4s;
+}
+.pray-image:hover{
+    transform: scale(1.1);
+}
+.content {
+    margin: 2rem 0;
+}
